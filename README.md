@@ -1,2 +1,2 @@
-# Java Calculator
+# CORE Java Calculator
 
