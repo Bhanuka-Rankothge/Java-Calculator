@@ -1,0 +1,6 @@
+public class Sub{
+  calculation = number1 - number2;
+  public void display{
+    System.out.println("Subtraction is : " + calculation ); 
+  }
+}
